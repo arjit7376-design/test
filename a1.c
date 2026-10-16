@@ -2,5 +2,5 @@
 
 int main(){
 	printf("hello world");
-	int age=20;
+	int age=14;
 }
